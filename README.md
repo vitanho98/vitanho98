@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Meu nome é Weslem tenho 17 anos e estou começando a estudar Desenvolvimento Web e Mobile, pretendo ser um programador Full Stack.
+I’m 18 years old and I’m currently working at Adstart where I’m a front-end developer.
 
 
 ## 🌐 Redes Sociais:
@@ -16,6 +16,5 @@ Meu nome é Weslem tenho 17 anos e estou começando a estudar Desenvolvimento We
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vitanho98&icon=8&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
